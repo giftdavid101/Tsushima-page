@@ -1,0 +1,25 @@
+.btn-red{
+    background: #a10230;
+    border-radius: 5px ;
+    border: none;
+    margin: 2px;
+}
+.btn-blue{
+    background: #2f52e0;
+    border-radius: 6px;
+    border: none;
+    color: white;
+    
+
+}
+.btn-small{
+    padding: -4px 30px;
+}
+.btn-big{
+  font-size: 14px;
+    padding: 0px 51px;
+}
+.btn-small:hover, .btn-big:hover{
+    background-color: bisque;
+    
+}

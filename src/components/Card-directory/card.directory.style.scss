@@ -1,0 +1,15 @@
+.card-directory{
+    width: 100%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-gap: 2px;
+    justify-content: space-evenly;
+    // background-color: yellow;
+   
+
+img{
+    width: 40%;
+    height: 50vh;
+    margin: 5px;
+}
+}

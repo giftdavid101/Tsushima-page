@@ -1,0 +1,23 @@
+/* *{
+  outline: 1px solid grey;
+} */
+
+
+.Container {
+  background:url("./img/wallhaven.jpg");
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: calc(10px + 2vmin);
+  color: white;
+
+
+}
+ .main{
+  width: 920px;
+  background:url("./img/wallhaven.jpg");
+  margin: auto;
+  height: 500px;
+  border: 2px solid gray;
+}
