@@ -1,3 +1,8 @@
+.content-main{
+ flex-basis: 40%;
+ margin-right: 8rem;
+ margin-left: 2rem;
+
 .content-left{
   width: 335px;
   display: inline-block;
@@ -14,7 +19,7 @@
  .text{
      font-size: 12px;
  }
-    .btn-div{
+  .btn-div{
   width: 70px;
   display: flex;
   justify-content: space-between;
@@ -36,3 +41,4 @@
 }
  }
 
+}

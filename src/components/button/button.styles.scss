@@ -2,22 +2,22 @@
     background: #a10230;
     border-radius: 5px ;
     border: none;
+    outline: none;
     margin: 2px;
 }
 .btn-blue{
     background: #2f52e0;
     border-radius: 6px;
     border: none;
+    outline: none;
     color: white;
     
 
 }
-.btn-small{
-    padding: -4px 30px;
-}
 .btn-big{
   font-size: 14px;
-    padding: 0px 51px;
+    padding: 9px 12px;
+    width: 95px;
 }
 .btn-small:hover, .btn-big:hover{
     background-color: bisque;

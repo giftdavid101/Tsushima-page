@@ -1,10 +1,10 @@
 import React from 'react';
 import './box.syle.scss'
 
-function Box({className="", children}) {
+function Box(props) {
     return (
-        <div className={`box ${className}`}>
-            {children}
+        <div className="box">
+            {props.children}
         </div>
     )
 }

@@ -1,10 +1,12 @@
-.directory {
-    width: 100%;
+.center-div{
+    height:100%;
     display: flex;
-    grid-gap: 50px;
-   
+    align-items: center;
+ 
+      
+
+    .directory{
+        overflow: hidden;
+        display: flex;
+    }
 }
-
-
-
-
